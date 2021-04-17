@@ -1,8 +1,7 @@
-# Platzi Downloader Tool
+# Downloader Tool
 
-![Platzi Downloader Tool Preview](docs/images/platzi-downloader-menu.png)
 Esta es una pequeña herramienta que hace mucho y que te ahorra una gran cantidad
-de trabajo a la hora de descargar cursos de [**Platzi**](https://platzi.com)
+de trabajo a la hora de descargar cursos de palito
 ## Instalaciones necesarias
 
 *De momento solo se da referencia a la instalación en Sistemas GNU/Linux como
